@@ -25,13 +25,6 @@
 
 ---
 
-## 📂 Featured Projects
-🔹 [Red Team Automation Toolkit](https://github.com/your-username/redteam-toolkit) – Scripts for AD testing & exploitation  
-🔹 [WordPress Security Checklist](https://github.com/your-username/wp-security-checklist) – Secure WP from common threats  
-🔹 [Google Dorking & Shodan Integration Tool](https://github.com/your-username/dork-scanner) – Web-based vulnerability search  
-
----
-
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-cheerla-reddy)  
