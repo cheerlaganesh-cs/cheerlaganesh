@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🎓 Graduate from **Kakatiya University, Warangal** (Public Administration, Sociology, Political Science)  
-- 🛡️ Founder of a Pentesting Company | Interested in **Red Teaming, AD Security, Vulnerability Exploitation**  
+- 🛡️ Interested in **Red Teaming, AD Security, Vulnerability Exploitation**  
 - 🖥️ Experience in **WordPress Development, Hosting Setup, SMTP/Email Configurations**  
 - 📊 Exploring **Data Analysis, Growth Analytics, and Automation**  
 - 📚 Constant learner of **OWASP Top 10, MITRE ATT&CK, Python & PowerShell scripting**  
