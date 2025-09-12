@@ -13,7 +13,9 @@
 - 📚 Constant learner of **OWASP Top 10, MITRE ATT&CK, Python & PowerShell scripting**  
 
 ---
-
+## Project
+https://github.com/cheerlaganesh-cs/password-strength-checker/blob/main/README.md
+---
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)
